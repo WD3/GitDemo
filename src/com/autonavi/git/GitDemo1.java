@@ -8,7 +8,7 @@ package com.autonavi.git;
 public class GitDemo1 {
 
 	public static void main(String[] args) {
-		System.err.println("本地减少");
+		System.err.println("本地改变");
 	}
 
 }

@@ -2,13 +2,13 @@ package com.autonavi.git;
 
 /**
  * @author wd103625
- * @date 2016Äê10ÔÂ18ÈÕ ÏÂÎç11:50:55
+ * @date 2016å¹´10æœˆ19æ—¥ ä¸Šåˆ12:14:50
  * 
  */
 public class GitDemo {
 
 	public static void main(String[] args) {
-		System.err.println("test");
+		System.out.println("test");
 	}
 
 }

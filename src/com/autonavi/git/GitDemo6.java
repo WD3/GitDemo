@@ -8,7 +8,7 @@ package com.autonavi.git;
 public class GitDemo6 {
 
 	public static void main(String[] args) {
-		System.out.println("local add");
+		System.out.println("remote add");
 	}
 
 }

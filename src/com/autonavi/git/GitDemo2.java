@@ -8,7 +8,7 @@ package com.autonavi.git;
 public class GitDemo2 {
 
 	public static void main(String[] args) {
-		System.out.println("add");
+		System.out.println("reduce local");
 	}
 
 }

@@ -5,10 +5,10 @@ package com.autonavi.git;
  * @date 2016年10月19日 上午12:14:50
  * 
  */
-public class GitDemo1 {
+public class GitDemo5 {
 
 	public static void main(String[] args) {
-		System.out.println("local change, remote no change 1");
+		System.out.println("local add");
 	}
 
 }

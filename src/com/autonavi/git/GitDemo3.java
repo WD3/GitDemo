@@ -8,7 +8,7 @@ package com.autonavi.git;
 public class GitDemo3 {
 
 	public static void main(String[] args) {
-		System.out.println("remote change");
+		System.out.println("remote change 1");
 	}
 
 }

@@ -8,7 +8,7 @@ package com.autonavi.git;
 public class GitDemo1 {
 
 	public static void main(String[] args) {
-		System.out.println("local change 1");
+		System.out.println("local change 3");
 	}
 
 }
